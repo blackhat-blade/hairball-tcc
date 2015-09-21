@@ -1,0 +1,4 @@
+*.o
+*.a
+tcc
+config.h
